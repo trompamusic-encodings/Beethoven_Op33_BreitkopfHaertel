@@ -27,12 +27,12 @@
                         Beethoven</persName>
                 </composer>
                 <relationList>
-                    <relation rel="hasPart" target="Beethoven_Op33_Nr1.mei" />
-                    <relation rel="hasPart" target="Beethoven_Op33_Nr2.mei" />
-                    <relation rel="hasPart" target="Beethoven_Op33_Nr3.mei" />
-                    <relation rel="hasPart" target="Beethoven_Op33_Nr4.mei" />
-                    <relation rel="hasPart" target="Beethoven_Op33_Nr5.mei" />
-                    <relation rel="hasPart" target="Beethoven_Op33_Nr6.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op33_Nr1-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op33_Nr2-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op33_Nr3-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op33_Nr4-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op33_Nr5-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op33_Nr6-Breitkopf.mei" />
                 </relationList>
             </work>
         </workList>

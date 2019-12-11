@@ -290,6 +290,9 @@
                         </incip>
                     </expression>
                 </expressionList>
+                <relationList>
+                  <relation rel="isPartOf" target="Beethoven_Op33-Breitkopf.mei"/>
+                </relationList>
             </work>
         </workList>
         <manifestationList>
