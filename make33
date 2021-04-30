@@ -5,4 +5,4 @@ verovio -s 25 -a --grace-factor .62 --justify-vertically  --grace-rhythm-align -
 verovio -s 25 -a --grace-factor .62 --justify-vertically  --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2200 --page-height 3300 --min-last-justification .3 --spacing-staff 8 --header none Beethoven_Op33_Nr5-Breitkopf.mei
 verovio -s 25 -a --grace-factor .62 --justify-vertically  --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2200 --page-height 3300 --min-last-justification .3 --spacing-staff 0 --header none Beethoven_Op33_Nr6-Breitkopf.mei
 verovio -s 25 -a --grace-factor .62 --justify-vertically  --grace-rhythm-align --spacing-linear .2 --spacing-non-linear .5 --breaks encoded --page-width 2200 --page-height 3300 --min-last-justification .3 --spacing-staff 0 --header none Beethoven_Op33_Nr7-Breitkopf.mei
-../../svg2pdf.sh Beethoven_Op33_Nr*-Breitkopf_*.svg
+../svg2pdf.sh Beethoven_Op33_Nr*-Breitkopf_*.svg
